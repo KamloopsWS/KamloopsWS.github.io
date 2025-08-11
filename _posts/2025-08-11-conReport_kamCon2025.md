@@ -28,7 +28,7 @@ Please validate your list with a game master before play while at the event or v
 - **Era of Play:** Dark Age
 - **Battle Value (BV):** 9000
 - **Unit Types:** BattleMechs, OmniMechs and combat vehicles (this includes VTOLs) only.
-- **Unit Number:** 4 to 6 units.
+- **Unit Number:** 3 to 6 units.
 - **Pilot Skills:** Must be kept within two of each other, No unit can have a skill higher than a 6 or lower than a 2
 - **Number of Mapsheets:** Will be provided 2 paper maps or 1 neoprene per match.
 - **Rules:** 

@@ -20,6 +20,8 @@ We encourage players of all skill levels to join up and try as many of the follo
 ##### FORMAT
 Round robin playing for points (aka wins, draws and losses), and will be scheduled dynamically throughout each day and across the convention days to ensure each player can play against the maximum amount of other players. 
 
+Please validate your list with a game master before play while at the event or validate your list earlier by emailing us [here](mailto:kamloopswargamingsociety@gmail.com).
+
 *(If an extreme amount of players signup we will use the double elimination format with a prior group stage before the double elimination section)*
 
 ##### DESCRIPTION
